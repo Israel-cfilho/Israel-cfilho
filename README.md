@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Israel, tenho 21 anos e atualmente estou cursando o 8° período de Ciências da Computação na UEPB. Tenho grande interesse na área de desenvolvedor Front-end, gosto de aplicar e aprimorar ainda mais as minhas habilidades em HTML, CSS, JavaScript, React.js e TailwindCSS. Gosto de desenvolver interfaces intuitivas e adaptáveis, sempre focando na experiência do usuário. Valorizo o trabalho em equipe, a aprendizagem contínua e a participação em projetos inovadores.".
+Me chamo Israel, tenho 21 anos e atualmente estou cursando o 8° período de Ciências da Computação na UEPB. Tenho grande interesse na área de desenvolvedor Front-end, gosto de aplicar e aprimorar ainda mais as minhas habilidades em HTML, CSS, JavaScript, React.js e TailwindCSS. Gosto de desenvolver interfaces intuitivas e adaptáveis, sempre focando na experiência do usuário.".
 
 <p align="left">
     <a href="https://www.instagram.com/israel_cfilho/">
