@@ -102,12 +102,12 @@ Me chamo Israel, tenho 21 anos e atualmente estou cursando o 8° período de Ci�
 
 ### 📊 Estatísticas
 
-<!-- <img 
+<img 
     align="left" 
     height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Israel-cfilho&show_icons=true&theme=tokyonight&locale=pt-br" 
-/> -->
+/>
 
 <img 
     align="left" 
