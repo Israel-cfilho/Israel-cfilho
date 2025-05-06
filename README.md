@@ -26,7 +26,7 @@ Me chamo Israel, tenho 21 anos e atualmente estou cursando o 8° período de Ci�
             src="https://custom-icon-badges.demolab.com/github/followers/Israel-cfilho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/israel-filho-910a01289/">
+    <a href="https://www.linkedin.com/in/israel-cfilho/">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
