@@ -108,19 +108,3 @@ Me chamo Israel, tenho 22 anos e atualmente estou cursando o 9° período de Ci�
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Israel-cfilho&show_icons=true&theme=tokyonight&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    height="200px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israel-cfilho&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
-/>
-
