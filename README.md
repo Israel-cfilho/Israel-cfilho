@@ -1,110 +1,123 @@
-# 👨‍💻 Israel Filho
+<h1 align="center">👋 Olá, eu sou Israel Filho</h1>
 
-**`Desenvolvedor Front-End`**
+<h3 align="center">
+  Desenvolvedor Full Stack | Java • Spring Boot • React
+</h3>
 
-Me chamo Israel, tenho 22 anos e atualmente estou cursando o 9° período de Ciências da Computação na UEPB. Tenho grande interesse na área de desenvolvedor Front-end, gosto de aplicar e aprimorar ainda mais as minhas habilidades em HTML, CSS, JavaScript, React.js e TailwindCSS. Gosto de desenvolver interfaces intuitivas e adaptáveis, sempre focando na experiência do usuário.
-
-<p align="left">
-    <a href="https://www.instagram.com/israel_cfilho/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-Follow-%23E1306C?logo=instagram&logoColor=white&style=for-the-badge&labelColor=833AB4"
-        />
-    </a>
-    <a href="https://github.com/Israel-cfilho?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Israel-cfilho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/Israel-cfilho?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Israel-cfilho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/israel-cfilho/">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
-        />
-    </a>
+<p align="center">
+  Transformando ideias em aplicações web completas 🚀
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/israel-cfilho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/israel_cfilho/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://portfolio-israel-six.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+🎓 Graduando em **Ciência da Computação pela UEPB**
 
-<br/>
-<br/>
+💻 Desenvolvedor focado em **Full Stack**
 
+☕ Aprofundando meus conhecimentos em **Java e Spring Boot**
+
+⚛️ Desenvolvimento de interfaces com **React.js**
+
+🔐 Interesse em **APIs REST, autenticação, JWT e segurança**
+
+🚀 Buscando transformar conhecimento em projetos reais e soluções úteis
+
+---
+
+## 🛠️ Tecnologias
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind"/>
+</p>
+
+### ⚙️ Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres"/>
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea"/>
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 💈 Sistema de Gerenciamento para Barbearia
+
+Sistema Full Stack para gerenciamento de uma barbearia.
+
+**Tecnologias:** `Java` `Spring Boot` `React` `MySQL` `JWT`
+
+- 📅 Agendamento de horários
+- 👤 Gerenciamento de clientes e barbeiros
+- ✂️ Gerenciamento de serviços
+- 🔐 Autenticação e autorização com JWT
+- 👥 Controle de acesso por tipo de usuário
+- 📊 Relatórios de faturamento
+- 🏆 Ranking de barbeiros
+- 💰 Controle de renda por barbeiro
+
+---
+
+### 🎬 PrimeView
+
+Aplicação web para explorar filmes utilizando a API do TMDB.
+
+**Tecnologias:** `React` `JavaScript` `API REST`
+
+- 🔎 Pesquisa de filmes
+- 🎬 Informações detalhadas
+- ❤️ Favoritos
+- ⭐ Avaliações
+- 📱 Interface responsiva
+
+---
+
+### 💻 SERCOMP Website
+
+Participação no desenvolvimento e manutenção do website do
+**Congresso Sertanejo de Computação (SERCOMP)**.
+
+**Tecnologias:** `React` `JavaScript` `CSS`
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/israel-cfilho/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vamos%20conectar!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/israel_cfilho/">
+    <img src="https://img.shields.io/badge/Instagram-@israel__cfilho-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <b>⭐ Obrigado por visitar meu perfil!</b>
+</p>
